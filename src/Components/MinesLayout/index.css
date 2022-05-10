@@ -1,0 +1,41 @@
+
+.Grid {
+    width: 325px;
+    height: 325px;
+    margin: 0px;
+}
+
+.row div {
+    float: left;
+    width: 30px;
+    height: 30px;
+    padding: 2px;
+    margin: 0px;
+    font-size: 20px;
+    font-weight: 200;
+    text-align: center;
+    text-indent: 0px;
+}
+
+.hide {
+    visibility: hidden;
+}
+
+.show {
+    visibility: visible;
+}
+
+.close {
+    border: 1px solid black;
+    border-radius: 2px;
+    /* background-color: rgb(90, 89, 89); */
+    background: rgb(51, 48, 48);
+    color: rgb(202, 40, 12);
+    box-shadow: 1px 1px 1px black;
+}
+
+.open {    
+    border: 0.2px solid black;
+    border-radius: 2px;
+    background-color: rgb(230, 230, 230);
+}
