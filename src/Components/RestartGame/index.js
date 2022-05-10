@@ -6,7 +6,7 @@ const RestartGame = ({ resetGame, setGameOver }) => {
         setGameOver(true);
     }
     return (
-        <div className="imageContainer" onClick={btnClicked}>Restart Game</div>
+        <button className="imageContainer" onClick={btnClicked}>Restart Game</button>
     );
 }
 
