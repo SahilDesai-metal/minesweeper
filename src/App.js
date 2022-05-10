@@ -32,9 +32,8 @@ function App() {
                         timerId2={timerId2}
                     />
                 </div>
-                <div className="Status">
-                    {status}
-                </div>
+
+                <div className="Status"> {status} </div>
             </div>
         </div>
     );
