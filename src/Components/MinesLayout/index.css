@@ -1,6 +1,5 @@
-
 .Grid {
-    width: 325px;
+    width: 326px;
     height: 325px;
     margin: 0px;
 }
@@ -34,7 +33,7 @@
     box-shadow: 1px 1px 1px black;
 }
 
-.open {    
+.open {
     border: 0.2px solid black;
     border-radius: 2px;
     background-color: rgb(230, 230, 230);
