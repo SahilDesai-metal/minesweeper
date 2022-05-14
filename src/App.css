@@ -1,11 +1,9 @@
 .container {
   display: flex;
-  background: rgb(86, 162, 212);/* rgb(132, 151, 236); */
-  /* background: rgb(241, 189, 16); */
+  background: rgb(86, 162, 212);
   justify-items: center;
   align-items: center;
   width: 500px;
-  /* height: 500px; */
   height: calc(100vh - 80px);
   border-radius: 15px;
 }
@@ -18,7 +16,7 @@
   display: flex;
   width: 325px;
   height: 50px;
-  background: rgb(90, 89, 89);/* rgb(236, 178, 102); */
+  background: rgb(90, 89, 89);
   font-size: large;
   font-weight: bolder;
   font-family: 'Courier New', Courier, monospace;
